@@ -1,6 +1,5 @@
 var wemimo = {
-    name: 'Oluwawemimo Folayan',
-    age: 24,
+    name: "Oluwawemimo Folayan",
     height: "5'11",
     country: "Nigeria"
 };
